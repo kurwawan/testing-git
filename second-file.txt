@@ -4,4 +4,6 @@ Planning branch :
   * flutter framework tutorial
   * tutorial BLoC
 - planning 2
+  * laravel framework
 - planning 3
+  * css framework
