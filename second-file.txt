@@ -4,4 +4,7 @@ Planning branch :
   * flutter framework tutorial
   * tutorial BLoC
 - planning 2
+  * laravel framework
+  * php developer
 - planning 3
+  * query of mysql
