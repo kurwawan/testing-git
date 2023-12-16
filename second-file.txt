@@ -2,5 +2,6 @@ Planning branch :
 - planning 1
   * dart programming
   * flutter framework tutorial
+  * tutorial BLoC
 - planning 2
 - planning 3
