@@ -7,4 +7,4 @@ Planning branch :
   * laravel framework
   * php developer
 - planning 3
-  * query of mysql
+  * css framework
